@@ -1,0 +1,40 @@
+# =========================
+# Windows system files
+# =========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =========================
+# PowerShell
+# =========================
+*.ps1xml
+*.psc1
+*.psd1
+*.psm1
+*.ps1~
+*.ps1.user
+
+# Ignore generated logs
+*.log
+
+# =========================
+# Visual Studio / IDE
+# =========================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Python (if user tests with it)
+# =========================
+__pycache__/
+*.py[cod]
+
+# =========================
+# Misc
+# =========================
+.DS_Store
